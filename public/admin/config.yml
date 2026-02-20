@@ -2,6 +2,7 @@ backend:
   name: github
   repo: jamesdouglas8/thelastelder
   branch: main
+  base_url: https://cms-auth.thelastelder.com
 
 media_folder: "src/assets/uploads"
 public_folder: "/assets/uploads"
